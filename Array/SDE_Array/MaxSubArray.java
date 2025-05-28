@@ -1,7 +1,8 @@
 package Array.SDE_Array;
 
 /*
- * In the brite for ce solution we can computer all the possible subarrays and then for each of the sum array
+    leetcode - 53 Kaidence Algo
+ * In the we can computer all the possible subarrays and then for each of the sum array
  * run a seperate loop to compute the subarray sum.
  * TC->O(N^3)
  * SC->O(1)
